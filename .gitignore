@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# PowerShell
+*.log
+
+# Azure / autenticação
+.azure/
+*.publishsettings
+
+# Segredos e variáveis locais
+.env
+.env.*
+*.secret
+*.secrets
+secrets/
+local.settings.json
+
+# Chaves e certificados privados locais
+*.key
+*.pem
+*.pfx
+*.p12
+*.ppk
+id_rsa
+id_ed25519
+
+# Repomix (Empacotador de código para IA)
+repomix-output.*
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Evidências não selecionadas
+docs/evidencias/temp/
