@@ -1,4 +1,4 @@
-# DIO Azure SQL Secure Lab
+# Azure SQL Secure Lab
 
 Laboratório de provisionamento, hardening, validação e governança de Azure SQL Database com PowerShell, Az PowerShell, T-SQL e Microsoft Entra.
 
