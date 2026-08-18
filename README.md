@@ -1,6 +1,6 @@
 # Azure SQL Secure Lab
 
-Laboratório de provisionamento, hardening, validação e governança de Azure SQL Database com PowerShell, Az PowerShell, T-SQL e Microsoft Entra.
+Laboratório seguro de Azure SQL com automação PowerShell, validações T-SQL, hardening, governança, segurança de banco de dados e práticas DevSecOps.
 
 O projeto demonstra automação defensiva, validação fail-closed, segurança de rede, autenticação Entra-only, proteção de operações destrutivas, seed transacional/idempotente e testes automatizados de segurança no banco de dados.
 
